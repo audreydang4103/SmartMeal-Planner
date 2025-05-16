@@ -1,0 +1,2276 @@
+[
+  {
+    "id": "715415",
+    "title": "Red Lentil Soup with Chicken and Turnips",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/715415-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 55,
+    "servings": 8,
+    "ingredients": [
+      {
+        "amount": "8",
+        "unit": "servings",
+        "name": "additional toppings: avocado"
+      },
+      {
+        "amount": "3",
+        "unit": "medium",
+        "name": "carrots"
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "celery stalks"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "chicken breast"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "flat leaf parsley"
+      },
+      {
+        "amount": "6",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "olive oil"
+      },
+      {
+        "amount": "28",
+        "unit": "oz",
+        "name": "canned tomatoes"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "lentils"
+      },
+      {
+        "amount": "8",
+        "unit": "servings",
+        "name": "salt and pepper"
+      },
+      {
+        "amount": "1",
+        "unit": "large",
+        "name": "turnip"
+      },
+      {
+        "amount": "8",
+        "unit": "cups",
+        "name": "vegetable stock"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "onion"
+      }
+    ],
+    "instructions": [
+      "To a large dutch oven or soup pot, heat the olive oil over medium heat.",
+      "Add the onion, carrots and celery and cook for 8-10 minutes or until tender, stirring occasionally.",
+      "Add the garlic and cook for an additional 2 minutes, or until fragrant. Season conservatively with a pinch of salt and black pepper.To the pot, add the tomatoes, turnip and red lentils. Stir to combine. Stir in the vegetable stock and increase the heat on the stove to high. Bring the soup to a boil and then reduce to a simmer. Simmer for 20 minutes or until the turnips are tender and the lentils are cooked through.",
+      "Add the chicken breast and parsley. Cook for an additional 5 minutes. Adjust seasoning to taste.",
+      "Serve the soup immediately garnished with fresh parsley and any additional toppings. Enjoy!"
+    ]
+  },
+  {
+    "id": "716406",
+    "title": "Asparagus and Pea Soup: Real Convenience Food",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/716406-556x370.jpg",
+    "tags": [
+      "antipasti",
+      "gluten free"
+    ],
+    "cookTime": 20,
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "bag",
+        "name": "asparagus"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "evoo"
+      },
+      {
+        "amount": "2",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "0.5",
+        "unit": "",
+        "name": "onion"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "peas"
+      },
+      {
+        "amount": "1",
+        "unit": "box",
+        "name": "vegetable broth"
+      }
+    ],
+    "instructions": [
+      "Chop the garlic and onions.",
+      "Saute the onions in the EVOO, adding the garlic after a couple of minutes; cook until the onions are translucent.",
+      "Add the whole bag of asparagus and cover everything with the broth. Season with salt and pepper and a pinch of red pepper flakes, if using.Simmer until the asparagus is bright green and tender (if you've thawed the asparagus it will only take a couple of minutes). Turn off the heat and puree using an immersion blender.",
+      "Add peas (the heat of the soup will quickly thaw them) and puree until smooth; add more until it reaches the thickness you like.Top with chives and a small dollop of creme fraiche or sour cream or greek yogurt."
+    ]
+  },
+  {
+    "id": "644387",
+    "title": "Garlicky Kale",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/644387-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": "3",
+        "unit": "Tbsps",
+        "name": "balsamic vinegar"
+      },
+      {
+        "amount": "1",
+        "unit": "clove",
+        "name": "garlic"
+      },
+      {
+        "amount": "1",
+        "unit": "bunch",
+        "name": "curly kale"
+      },
+      {
+        "amount": "2",
+        "unit": "servings",
+        "name": "olive oil"
+      }
+    ],
+    "instructions": [
+      "Heat the olive oil in a large pot over medium heat.",
+      "Add the kale and cover.Stir occasionally until the volume of the kale is reduced by half. Uncover.",
+      "Add garlic and basalmic.Allow to cook for about another 30 seconds or so, mixing well so that the garlic and vinegar are well distributed.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": "715446",
+    "title": "Slow Cooker Beef Stew",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/715446-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 490,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "14.5",
+        "unit": "oz",
+        "name": "beef broth"
+      },
+      {
+        "amount": "2",
+        "unit": "large",
+        "name": "carrots"
+      },
+      {
+        "amount": "2",
+        "unit": "stalks",
+        "name": "celery"
+      },
+      {
+        "amount": "26",
+        "unit": "oz",
+        "name": "cream of mushroom soup"
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "green onions"
+      },
+      {
+        "amount": "10",
+        "unit": "",
+        "name": "new potatoes"
+      },
+      {
+        "amount": "1",
+        "unit": "small",
+        "name": "onion"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "dale's seasoning"
+      },
+      {
+        "amount": "2",
+        "unit": "lb",
+        "name": "stew meat"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "water"
+      }
+    ],
+    "instructions": [
+      "To get started, heat your slow cooker to low.",
+      "Pour in the cream of mushroom soup, Dale's seasoning, water, and beef broth and stir until mixed well.",
+      "Add in your stew meat, potatoes, onions, carrots, celery, and green onions. Stir well until covered and cook on low for 8 hours. You can add salt and pepper as desired, but the flavors and the Dale's marry together so well that you probably won’t need them."
+    ]
+  },
+  {
+    "id": "782601",
+    "title": "Red Kidney Bean Jambalaya",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/782601-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "brown rice"
+      },
+      {
+        "amount": "2",
+        "unit": "medium",
+        "name": "carrots"
+      },
+      {
+        "amount": "2",
+        "unit": "stalks",
+        "name": "celery"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "celery seed"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "kidney beans"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "marjoram"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "thyme"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "eggplant"
+      },
+      {
+        "amount": "2",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "3",
+        "unit": "handfuls",
+        "name": "green beans"
+      },
+      {
+        "amount": "6",
+        "unit": "servings",
+        "name": "ground pepper"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "ground sage"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "liquid smoke"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "olive oil"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "bell pepper"
+      },
+      {
+        "amount": "1",
+        "unit": "small",
+        "name": "onion"
+      },
+      {
+        "amount": "1.5",
+        "unit": "tsps",
+        "name": "sea salt"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "sriracha"
+      },
+      {
+        "amount": "2",
+        "unit": "medium",
+        "name": "tomatoes"
+      },
+      {
+        "amount": "3",
+        "unit": "cups",
+        "name": "vegetable stock"
+      }
+    ],
+    "instructions": [
+      "Rinse the kidney beans and brown rice separately. Cover the kidney beans with water and soak for 8 hours or overnight. In a separate bowl, cover the brown rice with water and soak for 8 hours or overnight.",
+      "Drain and rinse the kidney beans, then transfer to a medium saucepan and cover with fresh water. Bring to a boil, reduce heat to medium-low, cover, and simmer for 1 hour or until just tender but not falling apart.",
+      "Drain and set aside.",
+      "Heat the oil in a large saucepan over medium heat. When hot, add the onion and saut for 5 minutes. Now add the garlic, carrots, celery and green beans, and stir for another 5 minutes. Next add the tomatoes, red pepper, eggplant, sage, thyme, marjoram and celery seed, and continue to stir for another few minutes.",
+      "Pour in the vegetable stock, liquid smoke, rice and the cooked kidney beans. Bring to a boil, reduce heat to medium low, cover, and cook, stirring occasionally, for 45 minutes or until the rice is tender.",
+      "Add water as necessary if the stew becomes too dry.Season with sriracha, salt and pepper, and taste for seasoning  add more liquid smoke, sriracha, salt, pepper or herbs as desired."
+    ]
+  },
+  {
+    "id": "716426",
+    "title": "Cauliflower, Brown Rice, and Vegetable Fried Rice",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/716426-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 30,
+    "servings": 8,
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "grapeseed oil"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "coconut oil"
+      },
+      {
+        "amount": "7",
+        "unit": "",
+        "name": "scallions"
+      },
+      {
+        "amount": "5",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "1",
+        "unit": "head",
+        "name": "cauliflower"
+      },
+      {
+        "amount": "3",
+        "unit": "cups",
+        "name": "brown rice"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "broccoli"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "peas"
+      },
+      {
+        "amount": "3",
+        "unit": "Tbsps",
+        "name": "soy sauce"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "sesame oil"
+      },
+      {
+        "amount": "8",
+        "unit": "servings",
+        "name": "sesame seeds"
+      },
+      {
+        "amount": "8",
+        "unit": "servings",
+        "name": "additional scallion tops"
+      },
+      {
+        "amount": "8",
+        "unit": "servings",
+        "name": "salt"
+      }
+    ],
+    "instructions": [
+      "Remove the cauliflower's tough stem and reserve for another use. Using a food processor, pulse cauliflower florets until they resemble rice or couscous. You should end up with around four cups of \"cauliflower rice.\"",
+      "Heat 1T butter and 1T oil in a large skillet over medium heat.",
+      "Add garlic and the white and light green pieces of scallion. Sauté about a minute.",
+      "Add the cauliflower to the pan. Stir to coat with oil, then spread out in pan and let sit; you want it cook a bit and to caramelize (get a bit brown), which will bring out the sweetness. After a couple of minutes, stir and spread out again.",
+      "Add cold rice (it separates easily, so it won't clump up during cooking), plus the additional grapeseed and coconut oil or butter. Raise heat to medium-high. Toss everything together and, again, spread the mixture out over the whole pan and press a bit into the bottom.",
+      "Let it sit for about two minutes—so the rice can get toasted and a little crispy.",
+      "Add the peas and broccoli and stir again.",
+      "Drizzle soy sauce and toasted sesame oil over rice.Cook for another minute or so and turn off heat.",
+      "Add chopped scallion tops and toss.I like to toast some sesame seeds in a dry pan; I sprinkle these and some more raw, chopped scallion over the top of the rice for added flavor and crunch.Season to taste with salt and, if you'd like, more soy sauce. Keep in mind that if you're serving this with something salty and saucy (ie. teriyaki chicken) you may want to hold off on adding too much salt to the fried rice."
+    ]
+  },
+  {
+    "id": "716004",
+    "title": "Quinoa and Chickpea Salad with Sun-Dried Tomatoes and Dried Cherries",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/716004-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "0.33333334",
+        "unit": "cups",
+        "name": "cashews"
+      },
+      {
+        "amount": "0.33333334",
+        "unit": "cups",
+        "name": "dried cherries"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "dried chickpeas"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "dried thyme"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "ground cumin"
+      },
+      {
+        "amount": "1.5",
+        "unit": "Tbsps",
+        "name": "honey"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "juice of orange"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "olive oil"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "quinoa"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "red wine vinegar"
+      },
+      {
+        "amount": "6",
+        "unit": "servings",
+        "name": "sea-salt"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "sun-dried tomatoes"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "turmeric"
+      }
+    ],
+    "instructions": [
+      "Rinse the quinoa and soak for 8 hours or overnight in 2 cups of water. Rinse the chickpeas and soak for 8 hours or overnight in several inches of water.Rinse the chickpeas and transfer to a small saucepan. Cover with fresh water and bring to a boil. Reduce heat to medium-low, cover, and simmer for 1 hour or until buttery soft.While the chickpeas are cooking, soak the sun-dried tomatoes in hot water for 30 minutes, then drain and chop. Meanwhile, bring the quinoa to a boil in a medium saucepan. Reduce heat to the lowest setting, cover, and simmer for 15 minutes or until the water is absorbed.",
+      "Remove from heat and wait 5 minutes before fluffing with a fork.Meanwhile, toast the cashews in a dry unoiled skillet or saucepan over medium-low heat, tossing or stirring frequently, for 10 minutes until browned.",
+      "Transfer the chickpeas, quinoa, sun-dried tomatoes, cashews and dried cherries to a large mixing bowl.",
+      "Whisk the dressing ingredients together and pour over the salad. Stir to combine and serve at room temperature or chilled."
+    ]
+  },
+  {
+    "id": "716627",
+    "title": "Easy Homemade Rice and Beans",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/716627-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 35,
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": "15",
+        "unit": "oz",
+        "name": "black beans"
+      },
+      {
+        "amount": "10",
+        "unit": "oz",
+        "name": "canned tomatoes"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "chili powder"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "cumin"
+      },
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "ground pepper"
+      },
+      {
+        "amount": "4",
+        "unit": "dashes",
+        "name": "optional: of hot sauce"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "olive oil"
+      },
+      {
+        "amount": "0.25",
+        "unit": "cups",
+        "name": "onion"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "rice"
+      },
+      {
+        "amount": "3",
+        "unit": "Tbsps",
+        "name": "water"
+      }
+    ],
+    "instructions": [
+      "Heat the olive oil in a large pot over medium heat.",
+      "Add onions and saute until soft, or for about 5 minutes.",
+      "Add all other remaining ingredients and stir together. Increase the heat to medium high and bring to a boil. Cover and reduce heat to medium low so that the mixture simmers. Cook for 15-20 minutes, or until rice is fluffy and liquid is absorbed.*",
+      "Serve with salsa, cheese, and sour cream."
+    ]
+  },
+  {
+    "id": "664147",
+    "title": "Tuscan White Bean Soup with Olive Oil and Rosemary",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/664147-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "bay leaf"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "rosemary"
+      },
+      {
+        "amount": "6",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "olive oil"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "onion"
+      },
+      {
+        "amount": "6",
+        "unit": "servings",
+        "name": "salt"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "water"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "beans"
+      }
+    ],
+    "instructions": [
+      "Rinse the beans thoroughly and place them in a 7-quart slow cooker along with the water, onion, garlic, and bay leaf. Cover and cook on LOW for about 8 hours, or until the beans are nice and tender.",
+      "Remove the bay leaf. Using a handheld immersion blender, puree the remaining ingredients to the desired texture.",
+      "Add the salt to taste.Ladle the soup into bowls.",
+      "Drizzle with the olive oil, sprinkle with rosemary, and serve."
+    ]
+  },
+  {
+    "id": "640941",
+    "title": "Crunchy Brussels Sprouts Side Dish",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/640941-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 30,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "pepper"
+      },
+      {
+        "amount": "1.764",
+        "unit": "lb",
+        "name": "brussels sprouts"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "dijon mustard"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "honey"
+      },
+      {
+        "amount": "3",
+        "unit": "Tbs",
+        "name": "olive oil"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbs",
+        "name": "red wine vinegar"
+      },
+      {
+        "amount": "0.25",
+        "unit": "cups",
+        "name": "walnuts"
+      }
+    ],
+    "instructions": [
+      "Blanch the Brussels sprouts in boiling water for 6-8 minutes or in a microwave oven in a little water for about 4 minutes.",
+      "Drain.",
+      "Saute the Brussels sprouts, stirring constantly, until they become golden-brown in color.Meanwhile mix the vinegar, mustard, honey and olive oil.",
+      "Add walnuts to the sprouts, stir and combine.",
+      "Pour the vinegar dressing over the sprouts, season with pepper.",
+      "Mix and combine so that each sprout is covered with the dressing.",
+      "Serve warm or cold as a side dish."
+    ]
+  },
+  {
+    "id": "660306",
+    "title": "Slow Cooker: Pork and Garbanzo Beans",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/660306-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "cinnamon"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "cumin"
+      },
+      {
+        "amount": "16",
+        "unit": "oz",
+        "name": "garbanzo beans *1"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "ground pepper"
+      },
+      {
+        "amount": "1",
+        "unit": "small",
+        "name": "onion"
+      },
+      {
+        "amount": "3",
+        "unit": "lb",
+        "name": "pork should roast"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "salt"
+      },
+      {
+        "amount": "4",
+        "unit": "cups",
+        "name": "water *2"
+      }
+    ],
+    "instructions": [
+      "In slow cooker layer in this order: pork, then garbanzo beans, onion, pour water over all.",
+      "Mix spices together and sprinkle over pork and beans. Cover. Set on low and cook for approximately 6 hours. The beans should be tender and creamy. The pork should fall very easily from the bone. The pork can be either shredded for cubed for your preference. *3Serving Suggestion: Scoop about 1 cup of beans with broth into a soup bowl. Top with shredded pork.",
+      "Add 1/4 of an avocado sliced, top with chopped fresh cilantro.NOTES:*1 The beans do not need to be soaked before adding to the slow cooker. They will be perfectly soft and creamy without pre-soaking.*2 Substitute the water for: 2 cups water and 1 bottle of good quality dark beer like Negra Modelo. You can also substitute the water for chicken stock or pork stock. Each of these substitutions will add an extra dimension of flavor.*3 If you want to shred the pork, it is easiest to do when the pork is hot. Use two forks to pull the pork apart and shred. If you want to slice the pork (like for sandwiches) it is best to do when the pork is cold.",
+      "Let the pork rest in the refrigerator for several hours or over night. Slice with a serrated knife or a very sharp chef knife."
+    ]
+  },
+  {
+    "id": "756814",
+    "title": "Powerhouse Almond Matcha Superfood Smoothie",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/756814-556x370.jpg",
+    "tags": [
+      "morning meal",
+      "gluten free"
+    ],
+    "cookTime": 10,
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "natural almond butter"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "almond milk"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "banana"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "chia seeds"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "baby kale"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "mango pieces"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "matcha tea powder"
+      },
+      {
+        "amount": "0.75",
+        "unit": "cups",
+        "name": "pineapple"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "vanilla extract"
+      }
+    ],
+    "instructions": [
+      "Combine all of the ingredients in a blender. Blend on high until smooth.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": "715769",
+    "title": "Broccolini Quinoa Pilaf",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/715769-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 30,
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "bunch",
+        "name": "broccolini"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "garlic clove"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "olive oil"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "onion"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "quinoa"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "vegetable broth"
+      },
+      {
+        "amount": "2",
+        "unit": "oz",
+        "name": "walnuts"
+      }
+    ],
+    "instructions": [
+      "In a large pan with lid heat olive oil over medium high heat.",
+      "Add onions and cook for 1 minute.",
+      "Add garlic and cook until onions are translucent and garlic is fragrant.",
+      "Add quinoa to pan, stir to combine. Slowly add in broth and bring to a boil.Cover and reduce heat to low, cook for 15 minutes.In the last 2-3 minutes of cooking add in broccolini on top of the quinoa (do not stir) and cover.Uncover and toss broccolini and quinoa together.Season to taste with salt and pepper.",
+      "Add walnuts and serve hot."
+    ]
+  },
+  {
+    "id": "642129",
+    "title": "Easy To Make Spring Rolls",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/642129-556x370.jpg",
+    "tags": [
+      "fingerfood",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "you can use regular basil"
+      },
+      {
+        "amount": "1",
+        "unit": "small head",
+        "name": "boston lettuce"
+      },
+      {
+        "amount": "1",
+        "unit": "small",
+        "name": "chili pepper"
+      },
+      {
+        "amount": "0.25",
+        "unit": "cups",
+        "name": "fish sauce"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "coriander leaves"
+      },
+      {
+        "amount": "1",
+        "unit": "clove",
+        "name": "garlic"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "lime juice"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "mint leaves"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "bell pepper"
+      },
+      {
+        "amount": "0.25",
+        "unit": "cups",
+        "name": "rice vinegar"
+      },
+      {
+        "amount": "8",
+        "unit": "large",
+        "name": "shrimp"
+      },
+      {
+        "amount": "8",
+        "unit": "8-inch",
+        "name": "spring roll wrappers"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "sugar"
+      },
+      {
+        "amount": "0.25",
+        "unit": "cups",
+        "name": "water"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "nuoc cham"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "nuoc cham"
+      }
+    ],
+    "instructions": [
+      "Have all the ingredients ready for assembly. In a large bowl filled with water, dip a wrapper in the water. The rice wrapper will begin to soften and this is your cue to remove it from the water and lay it flat.",
+      "Place 2 shrimp halves in a row across the center and top with basil, mint, cilantro and lettuce. Leave about 1 to 2 inches uncovered on each side.  Fold uncovered sides inward, then tightly roll the wrapper, beginning at the end with the lettuce.  Repeat with remaining wrappers and ingredients.",
+      "Cut and serve at room temperature with dipping sauce.The Culinary Chases Note: The rice wrapper can be fussy to handle if you let it soak too long. I usually give it a couple of swishes in the water and then remove. It may feel slightly stiff but by the time you are ready to roll up, the wrapper will become very pliable.  A typical spring roll contains cooked rice vermicelli, slivers of cooked pork and julienned carrots but you can use whatever suits your fancy.  Enjoy!"
+    ]
+  },
+  {
+    "id": "642605",
+    "title": "Farro With Mushrooms and Asparagus",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/642605-556x370.jpg",
+    "tags": [
+      "side dish",
+      "dairy free"
+    ],
+    "cookTime": 75,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "bunch",
+        "name": "asparagus"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "chicken stock"
+      },
+      {
+        "amount": "1",
+        "unit": "oz",
+        "name": "porcini mushrooms"
+      },
+      {
+        "amount": "8",
+        "unit": "oz",
+        "name": "farro"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "thyme"
+      },
+      {
+        "amount": "2",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "olive oil"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "onion"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "salt and pepper"
+      },
+      {
+        "amount": "3",
+        "unit": "Tbsps",
+        "name": "sherry vinegar"
+      }
+    ],
+    "instructions": [
+      "In a small bowl, cover dried mushrooms with warm water.  Soak for 25 minutes, or until softened.",
+      "Drain the mushrooms, and discard the soaking water.  Chop finely.Bring a large pot of water to a boil.",
+      "Add farro, and cook for 10 minutes, stirring occasionally.",
+      "Drain and reserve.In a large skillet, over medium heat, heat the olive oil, and add onion, garlic, thyme, and mushrooms.Cook, stirring occasionally, for 5 minutes or until onions are tender.Stir in 2 tablespoons of sherry vinegar, and continue cooking for 1 minute.",
+      "Add chicken stock, and bring it to a boil.Stir in farro, and return to a boil.Lower the heat to a simmer, and cover with a tight fitting lid.  Cook for 10 minutes.",
+      "Add asparagus, and cook, covered, for an additional 10 minutes.Season with 1 tablespoon sherry vinegar, salt and pepper."
+    ]
+  },
+  {
+    "id": "636589",
+    "title": "Butternut Squash Frittata",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/636589-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 1,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "large",
+        "name": "butternut squash"
+      },
+      {
+        "amount": "0.5",
+        "unit": "oz",
+        "name": "goat cheese"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "liquid egg substitute"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "non-fat milk"
+      },
+      {
+        "amount": "1",
+        "unit": "serving",
+        "name": "bell pepper"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350Spray a 10 oz oven safe dish with cooking spray",
+      "Add your butternut squash",
+      "In a measuring cup add your eggs and milk.",
+      "Mix until combined.",
+      "Pour over butternut squash.",
+      "Sprinkle with pepper and top with cheese.",
+      "Bake in oven for 30-35 minutes, until middle is slightly firm",
+      "Let it cool for a few minutes"
+    ]
+  },
+  {
+    "id": "646738",
+    "title": "Herbivoracious' White Bean and Kale Soup",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/646738-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "0.25",
+        "unit": "cups",
+        "name": "olive oil"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "onion"
+      },
+      {
+        "amount": "1",
+        "unit": "head",
+        "name": "garlic"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "carrot"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "kosher salt"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "bay leaves"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "rosemary leaves"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "the following: parmesan rind)"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "navy"
+      },
+      {
+        "amount": "7",
+        "unit": "cups",
+        "name": "water"
+      },
+      {
+        "amount": "1",
+        "unit": "bunch",
+        "name": "dinosaur kale"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "juice of lemon"
+      }
+    ],
+    "instructions": [
+      "PRESSURE COOKER METHOD",
+      "In the pressure cooker base, but without pressure, heat the olive oil over medium-high heat. Saut the onion, garlic, carrot, and 1 teaspoon salt until the onion is translucent, about 4 minutes.",
+      "Add the bay leaves, rosemary, and your choice(s) of the Parmesan rind, dried porcini, or broth powder.",
+      "Add the dry beans and water. Bring up to high pressure and cook for 40 minutes, then allow the pressure to release naturally. Open the lid.",
+      "Remove the bay leaves and Parmesan rind, if using.",
+      "Add the kale and lemon juice and simmer for 10 minutes, until the kale is tender. Taste and adjust the seasoning, then serve, garnished with a generous drizzle of extra-virgin olive oil.",
+      "STOVETOP METHOD",
+      "Cover the beans with several inches of water and soak overnight.",
+      "Drain the beans and place in a large saucepan. Cover with water by at least 2 inches and bring to a boil. Reduce the heat and simmer the beans until tender, about 1 1/2 to 2 hours.",
+      "Drain the beans, reserving the bean broth.",
+      "In a large saucepan, heat the olive oil over medium-high heat. Saut the onion, garlic, carrot, and 1 teaspoon salt until the onion is translucent, about 4 minutes.",
+      "Add 4 cups of the bean broth, the bay leaves, rosemary, and your choice of the Parmesan rind, dried porcini, or broth powder. Bring to a simmer and cook for 30 minutes.",
+      "Remove the bay leaves and Parmesan rind, if using.",
+      "Add the beans, kale, and lemon juice and simmer for 10 minutes, until the kale is tender. Taste and adjust the seasoning, then serve, garnished with a generous drizzle of extra-virgin olive oil."
+    ]
+  },
+  {
+    "id": "663559",
+    "title": "Tomato and lentil soup",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/663559-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "Tbs",
+        "name": "olive oil"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "onion"
+      },
+      {
+        "amount": "2",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "carrots"
+      },
+      {
+        "amount": "1.058",
+        "unit": "lb",
+        "name": "tomatoes"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "bay leaf"
+      },
+      {
+        "amount": "1.374",
+        "unit": "qt",
+        "name": "water"
+      },
+      {
+        "amount": "8.818",
+        "unit": "oz",
+        "name": "lentils"
+      },
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "salt"
+      },
+      {
+        "amount": "1",
+        "unit": "bunch",
+        "name": "parsley"
+      }
+    ],
+    "instructions": [
+      "Saut onion and garlic in olive oil for 5 minutes.",
+      "Add the carrot, saut for another 2 minutes.",
+      "Add tomatoes, bay leaf and water, stir and bring to the boil.",
+      "Stir in lentils, season with salt and cook for 5 minutes.",
+      "Before serving sprinkle with chopped parsley."
+    ]
+  },
+  {
+    "id": "662670",
+    "title": "Swiss Chard Wraps",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/662670-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "6",
+        "unit": "large",
+        "name": "swiss chard leaves"
+      },
+      {
+        "amount": "1",
+        "unit": "small head",
+        "name": "orange cauliflower"
+      },
+      {
+        "amount": "1.5",
+        "unit": "Tbs",
+        "name": "olive oil"
+      },
+      {
+        "amount": "3",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "1",
+        "unit": "pinch",
+        "name": "salt"
+      },
+      {
+        "amount": "1",
+        "unit": "sprig",
+        "name": "basil"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "zucchini"
+      },
+      {
+        "amount": "1",
+        "unit": "large",
+        "name": "bell pepper"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "avocado"
+      },
+      {
+        "amount": "3",
+        "unit": "Tbs",
+        "name": "trader joe's spicy peanut vinaigrette"
+      }
+    ],
+    "instructions": [
+      "Chop off the stems of the swiss chard at the point where it meets the leaf. You could stem the swiss chard entirely. I like leaving a bit of stem with the leaves to give better structure to the wraps.",
+      "Chop the cauliflower into small pieces and pulse them in a food processor until it looks like rice. I usually pulse the cauliflower florets and the stalk together.",
+      "Place the olive oil in a saut pan over medium-high heat. Once the pan is hot, add the garlic and let it fry for about a minute or two, or until the garlic starts to brown.",
+      "Add the pulsed cauliflower rice and cook it for about 2-3 minutes. The cauliflower should turn into a vibrant yellow-orange color when it is cooked.",
+      "Add a pinch of salt and chopped basil to the cauliflower and stir.",
+      "Spiralize the zucchini with Blade B to create zucchini noodles. If you do not have a spiralizer, just create zucchini ribbons with a vegetable peeler.",
+      "To assemble the wraps, place a large leaf flat down.",
+      "Add a bit of sauted cauliflower, zucchini noodles, red pepper, and avocado along the swiss chard stalk.",
+      "Drizzle a bit of vinaigrette on top of the vegetables and wrap everything up.",
+      "Enjoy these wraps as a side to your favorite protein! Feel free to dip these wraps in more sauce.",
+      "These wraps are best consumed when they are freshly made. Refrigerate any leftovers in an airtight container."
+    ]
+  },
+  {
+    "id": "640062",
+    "title": "Corn Avocado Salsa",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/640062-556x370.jpg",
+    "tags": [
+      "antipasti",
+      "gluten free"
+    ],
+    "cookTime": 25,
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "avocado"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "balsamic vinegar"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "cumin"
+      },
+      {
+        "amount": "0.75",
+        "unit": "cups",
+        "name": "corn"
+      },
+      {
+        "amount": "1",
+        "unit": "clove",
+        "name": "garlic"
+      },
+      {
+        "amount": "0.5",
+        "unit": "medium",
+        "name": "bell pepper"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 375 degrees.",
+      "Spread corn flat on a baking sheet.Spray lightly with olive oil spray.Roast corn in the oven for about 8-10 minutes. (Be careful not to brown too much or burn.)",
+      "Remove from heat and allow to cool.Finely chop red pepper and garlic and mix in a bowl.Peel and coarsely chop avocado and add to bowl.",
+      "Add cooled corn.",
+      "Mix in cumin and vinegar and blend well."
+    ]
+  },
+  {
+    "id": "715421",
+    "title": "Cheesy Chicken Enchilada Quinoa Casserole",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/715421-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 30,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "small",
+        "name": "avocado"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "pepper"
+      },
+      {
+        "amount": "15",
+        "unit": "oz",
+        "name": "black beans"
+      },
+      {
+        "amount": "10",
+        "unit": "oz",
+        "name": "canned tomatoes"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "chili powder"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "quinoa"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "cumin"
+      },
+      {
+        "amount": "10",
+        "unit": "oz",
+        "name": "verde enchilada sauce"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "cilantro"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "green onion tops"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "roma tomato"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "salt"
+      },
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "cheese"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "chicken breast"
+      },
+      {
+        "amount": "15",
+        "unit": "oz",
+        "name": "corn"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "pepper"
+      }
+    ],
+    "instructions": [
+      "To get started, heat your oven to 350 and prepare an 8x8 baking dish. Cook the quinoa according to the instructions. If you haven't already, boil and shred your chicken breast.In a medium sized mixing bowl add 2 Tbsp cilantro, 1 cup shredded cheese, quinoa, tomatoes with chilis, black beans, half of the can of sweet corn, verde enchilada sauce, cumin, chili powder, white pepper, black pepper, and salt to taste.",
+      "Mix everything well, and then pour into the 8 x8 baking dish. Cover with the last cup of cheese and then bake in the oven for 15 minutes.",
+      "Remove from oven and allow to cool for 5 minutes. Then top with chopped Roma tomato, chopped avocado, green onion tops, and remaining 2 tsp of cilantro.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": "715957",
+    "title": "Zesty Green Pea and Jalapeño Pesto Pasta",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/715957-556x370.jpg",
+    "tags": [
+      "side dish",
+      "dairy free"
+    ],
+    "cookTime": 45,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "fresh basil leaves"
+      },
+      {
+        "amount": "0.75",
+        "unit": "cups",
+        "name": "fresh mint leaves"
+      },
+      {
+        "amount": "2",
+        "unit": "cloves",
+        "name": "garlic"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "jalapeno"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "juice of lemon"
+      },
+      {
+        "amount": "3",
+        "unit": "Tbsps",
+        "name": "olive oil"
+      },
+      {
+        "amount": "1.25",
+        "unit": "cups",
+        "name": "peas"
+      },
+      {
+        "amount": "3",
+        "unit": "cups",
+        "name": "rotini pasta"
+      },
+      {
+        "amount": "1",
+        "unit": "pinch",
+        "name": "sea salt"
+      },
+      {
+        "amount": "1",
+        "unit": "small",
+        "name": "red onion"
+      },
+      {
+        "amount": "4",
+        "unit": "",
+        "name": "sun-dried tomatoes"
+      },
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "ground"
+      }
+    ],
+    "instructions": [
+      "Soak the sun-dried tomatoes in hot water for 20 to 30 minutes.",
+      "Drain and chop.Cook the pasta in a large saucepan of boiling salted water according to package directions. Two minutes before the pasta is finished cooking, toss in the remaining peas.In a small food processor, process the sun-dried tomatoes, 1/4 cup of the peas, basil, mint, shallot or onion, garlic, jalapeo, lemon juice and zest, salt and pepper with 3 tablespoons of olive oil in a small food processor. Process until smooth.",
+      "Add another tablespoon of olive oil if the pesto is too thick to process.",
+      "Drain the pasta and peas and toss with the pesto.",
+      "Serve hot or warm, or cold as a salad."
+    ]
+  },
+  {
+    "id": "648320",
+    "title": "Jade Buddha Salmon Tartare",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/648320-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": "12",
+        "unit": "oz",
+        "name": "salmon"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "green onion"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "chives"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "cilantro"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "thai basil"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "ginger"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "lime zest"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "lime juice"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "rice vinegar"
+      },
+      {
+        "amount": "2",
+        "unit": "servings",
+        "name": "habanero sauce and chile"
+      },
+      {
+        "amount": "2",
+        "unit": "servings",
+        "name": "salt and pepper"
+      },
+      {
+        "amount": "2",
+        "unit": "servings",
+        "name": "olive oil to coat"
+      }
+    ],
+    "instructions": [
+      "Combine all ingredients except lime juice and vinegar.",
+      "Chill for 30 minutes.",
+      "Add lime juice and vinegar, adjust to perfect, and serve."
+    ]
+  },
+  {
+    "id": "798400",
+    "title": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/798400-556x370.jpg",
+    "tags": [
+      "antipasti",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "black-eyed peas"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "curry powder"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "garam masala"
+      },
+      {
+        "amount": "1",
+        "unit": "large",
+        "name": "globe"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "ground coriander"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "ground cumin"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "ground mustard powder"
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "juice of lemon"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "olive oil"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "chilies"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "sea salt"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "shallots"
+      },
+      {
+        "amount": "1",
+        "unit": "bunch",
+        "name": "swiss chard"
+      },
+      {
+        "amount": "1",
+        "unit": "medium",
+        "name": "tomato"
+      },
+      {
+        "amount": "5",
+        "unit": "Tbsps",
+        "name": "water"
+      }
+    ],
+    "instructions": [
+      "Rinse the black-eyed peas and soak in several inches of water for 6 hours or overnight.",
+      "Drain and rinse, then transfer to a large saucepan and cover with fresh water. Bring to a boil, reduce heat to medium-low, cover, and simmer for 40 to 60 minutes. Take care not to overcook  the beans should be tender but not be falling apart.",
+      "Drain and set aside.To prepare the eggplant, cut of the stem and bottom edge and then cut in half lengthwise. Score the flesh into diagonal 1-inch lines, then turn and score again until you have a diagonal pattern. Take care not to cut through the skin.",
+      "Sprinkle with some salt and let sit for 40 minutes. Rinse and squeeze out any excess water.",
+      "Brush the eggplant with some oil and transfer to a roasting pan.",
+      "Bake in a preheated 400 oven until the flesh appears collapsed and is wrinkly.",
+      "Remove from heat and let cool for about 10 minutes, season with a bit of salt, and remove the flesh from the eggplant. If there is too much water, drain in a strainer. Set aside.",
+      "Heat the oil over medium heat in the same saucepan used to cook the black-eyed peas. When hot, toss in the shallots and chilies and saut for 2 to 3 minutes. Now add the spices and stir for another minute, until fragrant.",
+      "Add the tomato, cook for another few minutes, and then add the eggplant and black-eyed peas, and cook for another few minutes, stirring often.",
+      "Pour a few tablespoons of water into the pan and add handfuls of chard at a time until wilted.",
+      "Add more water as necessary.",
+      "Add the lemon juice and salt to taste near the end of the cooking time.",
+      "Remove from heat, cover, and let sit for a few minutes before serving."
+    ]
+  },
+  {
+    "id": "652417",
+    "title": "Moroccan chickpea and lentil stew",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/652417-556x370.jpg",
+    "tags": [
+      "lunch",
+      "dairy free"
+    ],
+    "cookTime": 30,
+    "servings": 3,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "broccoli"
+      },
+      {
+        "amount": "1",
+        "unit": "can",
+        "name": "chickpeas"
+      },
+      {
+        "amount": "2",
+        "unit": "large",
+        "name": "carrots"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "celery stalks"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "lentils"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "couscous"
+      },
+      {
+        "amount": "3",
+        "unit": "servings",
+        "name": "cilantro"
+      },
+      {
+        "amount": "0.125",
+        "unit": "tsps",
+        "name": "ground cinnamon"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "ground cumin"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "ground turmeric"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbs",
+        "name": "lemon juice"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "olive oil"
+      },
+      {
+        "amount": "2",
+        "unit": "tsps",
+        "name": "paprika"
+      },
+      {
+        "amount": "3",
+        "unit": "servings",
+        "name": "salt and pepper"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbs",
+        "name": "tomato paste"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "water"
+      }
+    ],
+    "instructions": [
+      "Heat oil in large saucepan over medium-high heat, add onion and cook for about 3 minutes.",
+      "Add celery, carrot and broccoli to pan and saut for about 5 minutes.",
+      "Add in all seasonings and cook additional 1 minute.",
+      "Add water, tomato paste, chickpeas and lentils, bring to a boil. Cover, reduce heat to low and simmer for 20 minutes.Meanwhile, cook couscous in separate pan according to package directions.",
+      "Add cilantro and lemon juice to stew and serve over warm couscous."
+    ]
+  },
+  {
+    "id": "661925",
+    "title": "Strawberry-Mango Quinoa Salad",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/661925-556x370.jpg",
+    "tags": [
+      "side dish",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "0.75",
+        "unit": "cups",
+        "name": "cucumber"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "mint"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "honey"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "lime juice"
+      },
+      {
+        "amount": "0.167",
+        "unit": "tsps",
+        "name": "lime zest"
+      },
+      {
+        "amount": "0.5",
+        "unit": "",
+        "name": "mango"
+      },
+      {
+        "amount": "0.25",
+        "unit": "cups",
+        "name": "olive oil"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "bell pepper"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "quinoa"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "salt"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "cream"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "strawberries"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "water"
+      }
+    ],
+    "instructions": [
+      "Prepare the quinoa: In a medium saucepan combine the quinoa, water and 1/4 t. salt. Bring to a boil, reduce heat to low, cover and simmer until the liquid is just absorbed, about 15 minutes.",
+      "Spread the cooked quinoa out on a baking sheet to cool for about 20 minutes.In a large bowl whisk together lime juice, zest, honey, sour cream and olive oil.",
+      "Add the cooled quinoa, strawberries, mango, cucumber and mint. Toss well to combine and season with salt &amp; pepper.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": "636787",
+    "title": "Caldo Verde - Portuguese Kale Soup",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/636787-556x370.jpg",
+    "tags": [
+      "lunch",
+      "gluten free"
+    ],
+    "cookTime": 45,
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": "0.5",
+        "unit": "large",
+        "name": "onion"
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "carrots"
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "garlic cloves"
+      },
+      {
+        "amount": "4",
+        "unit": "large",
+        "name": "potatoes"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "chorizo links"
+      },
+      {
+        "amount": "4",
+        "unit": "cups",
+        "name": "chicken stock and 2 cups of water"
+      },
+      {
+        "amount": "1",
+        "unit": "bunch",
+        "name": "kale"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "of water and 2 packets of chicken boullion"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "pepper flakes"
+      },
+      {
+        "amount": "4",
+        "unit": "servings",
+        "name": "salt and pepper"
+      }
+    ],
+    "instructions": [
+      "Chop your onions, slice your carrots and smash your garlic. Set aside.",
+      "Peel and chop the potatoes. Set aside in a bowl of cold water.",
+      "Remove the casing from your chorizo. This is an important step. Chorizo casing is tough and unforgiving and will make the sausage link curl during the cooking process. Just remove it and don't worry about appearance.",
+      "Cut the links length-wise then chop into half-moons.",
+      "Sautee in a separate pan until the are nice and browned. Don't put into the pot until the last minute, otherwise the color of the chorizo will leach into the soup turning it a weird red color.",
+      "Now it's time to prepare the kale. With each individual leaf, cut out the stem. You can do this several ways.",
+      "Cut a triangle out of the leaf, or fold over the leaf and cut out the stem that way. Or rip off the halves of the leaves off the stem. I like a little bit of stem to give some crunch and texture.",
+      "Tightly roll the leaf into a bundle.",
+      "Run your knife over it to julienne the leaf into thin strips.",
+      "Don't worry if it's not perfect. Set aside the kale.",
+      "In a big pot, sautee your onions, carrots and garlic in a bit of olive oil.",
+      "Once the vegetables start to soften, add the potatoes and some crushed red pepper flakes. Stir the pot and cook the potatoes until the outer edges start turning clear.",
+      "Then add the 6 cups of water and 2 bouillion packets (or 4 cups of broth and 2 cups of water) to the pot. Bring to a boil then let simmer until the potatoes are cooked.",
+      "With a wooden spoon, mash the potatoes against the side of the pot. Do this until almost all the chunks of potatoes are mashed. Leave some chunks behind. This will give your soup a wonderful hearty texture.",
+      "Now it's time to add the Kale. It looks like a lot and will fill up your whole pot but not to worry because it wilts down pretty quickly.",
+      "Cook for 5 minutes at a simmer then stir in chorizo sausage.",
+      "Serve hot or at room temperature (the latter is my favorite). Eat with a nice crusty loaf of Portuguese bread. Enjoy!"
+    ]
+  },
+  {
+    "id": "652423",
+    "title": "Moroccan Couscous and Chickpea Salad",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/652423-556x370.jpg",
+    "tags": [
+      "side dish",
+      "dairy free"
+    ],
+    "cookTime": 45,
+    "servings": 6,
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "pepper"
+      },
+      {
+        "amount": "15",
+        "unit": "oz",
+        "name": "chickpeas"
+      },
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "cayenne"
+      },
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "cinnamon"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "couscous"
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "green onions"
+      },
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "ground ginger"
+      },
+      {
+        "amount": "0.25",
+        "unit": "tsps",
+        "name": "ground nutmeg"
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "lemon"
+      },
+      {
+        "amount": "6",
+        "unit": "servings",
+        "name": "olive oil"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "parsley"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "pistachio nuts"
+      },
+      {
+        "amount": "1",
+        "unit": "small",
+        "name": "bell pepper"
+      },
+      {
+        "amount": "6",
+        "unit": "servings",
+        "name": "salt"
+      },
+      {
+        "amount": "0.5",
+        "unit": "tsps",
+        "name": "turmeric"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "vegetable broth"
+      }
+    ],
+    "instructions": [
+      "Heat broth and a teaspoon of salt and bring to a boil.",
+      "Place couscous in a bowl and add broth.  Cover bowl to let couscous absorb liquid.After  5 minutes, remove cover and fluff couscous with a fork.In a large bowl, add the chickpeas, pistachios, red peppers, green onions and parsley and mix well.",
+      "Add the zest and juice of the lemon and mix again.",
+      "Add the spice mixture over the couscous and mix well. Taste, and add salt if needed.",
+      "Let the salad marinate for an hour or so before serving."
+    ]
+  },
+  {
+    "id": "715447",
+    "title": "Easy Vegetable Beef Soup",
+    "description": "",
+    "image": "https://img.spoonacular.com/recipes/715447-556x370.jpg",
+    "tags": [
+      "lunch",
+      "dairy free"
+    ],
+    "cookTime": 150,
+    "servings": 8,
+    "ingredients": [
+      {
+        "amount": "3",
+        "unit": "lb",
+        "name": "beef short ribs"
+      },
+      {
+        "amount": "0.5",
+        "unit": "cups",
+        "name": "elbow macaroni"
+      },
+      {
+        "amount": "16",
+        "unit": "cups",
+        "name": "water 4 qts"
+      },
+      {
+        "amount": "28",
+        "unit": "oz",
+        "name": "canned tomatoes"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "potatoes"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "on carrots"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "celery"
+      },
+      {
+        "amount": "1.5",
+        "unit": "cups",
+        "name": "onion"
+      },
+      {
+        "amount": "15",
+        "unit": "oz",
+        "name": "kernal corn"
+      },
+      {
+        "amount": "15",
+        "unit": "oz",
+        "name": "butter beans"
+      },
+      {
+        "amount": "15",
+        "unit": "oz",
+        "name": "eyed peas"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "bay leaves"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "garlic powder"
+      },
+      {
+        "amount": "1",
+        "unit": "tsp",
+        "name": "celery salt"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "worcestershire sauce"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "salt"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "ground pepper"
+      },
+      {
+        "amount": "1",
+        "unit": "Tbsp",
+        "name": "seasoning"
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "beef bouillon cubes"
+      },
+      {
+        "amount": "2",
+        "unit": "Tbsps",
+        "name": "parsley"
+      }
+    ],
+    "instructions": [
+      "To get started, bring 4 quarts of water to a boil in a large pot. ",
+      "While waiting on the water to boil, cut the beef short ribs into bite-sized pieces and add them to the water.",
+      "Add in diced tomatoes, potatoes, diced onion, parsley, garlic powder, beef bouillon cubes, Italian seasoning, salt, pepper, Worcestershire sauce, celery salt, bay leaves, and stir.",
+      "Then add carrots, celery, black-eyed peas, butter beans, corn, and macaroni.",
+      "Heat on high, stirring occasionally until the stew mixture comes to a boil.",
+      "Once you have reached a boil, cover with a lid, lower heat enough to keep it simmering.  Continue to simmer for 1.5 to 2 hours, stirring occasionally."
+    ]
+  }
+]
