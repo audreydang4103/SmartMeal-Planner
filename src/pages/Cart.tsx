@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from "react"
 import { Link } from "react-router-dom"
-import { ArrowLeft, Trash2, ShoppingCart, Minus, Plus } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { Checkbox } from "@/components/ui/checkbox"
-import { RECIPES } from "@/lib/recipe-data"
-import { Badge } from "@/components/ui/badge"
+import { ArrowLeft, Trash2, ShoppingCart, Minus, Plus, MoreHorizontal, Download } from "lucide-react"
+import { Button } from "../components/ui/button"
+import { Checkbox } from "../components/ui/checkbox"
+import { RECIPES } from "../lib/recipe-data"
+import { Badge } from "../components/ui/badge"
+import jsPDF from "jspdf"
+
 import {
     getCart,
     clearCart,
@@ -12,8 +14,8 @@ import {
     addRecipeToCart,
     removeRecipeFromCart,
     getRecipeCounts
-} from "@/lib/cart-utils"
-import type { CartItem } from "@/lib/types"
+} from "../lib/cart-utils"
+import type { CartItem } from "../lib/types"
 
 export default function ShoppingCartPage() {
     const [cartItems, setCartItems] = useState<CartItem[]>([])
@@ -74,18 +76,31 @@ export default function ShoppingCartPage() {
     }
 
 
+    function handleExportPDF() {
+        const doc = new jsPDF()
+        doc.setFontSize(18)
+        doc.text("Grocery List", 20, 20)
+
+        // Lấy danh sách từ DOM
+        const items = document.querySelectorAll(".grocery-item-label")
+
+        let y = 30
+        items.forEach((item) => {
+            doc.setFontSize(12)
+            doc.text(`• ${item.textContent || ""}`, 20, y)
+            y += 10
+        })
+
+        doc.save("grocery-list.pdf")
+    }
+
+
     const recipesInCart = Object.keys(recipeCounts)
         .map((id) => RECIPES.find((r) => r.id === id))
         .filter(Boolean) as typeof RECIPES
 
     return (
         <div className="container mx-auto px-4 py-8">
-            <Button variant="ghost" asChild className="mb-4">
-                <Link to="/">
-                    <ArrowLeft className="mr-2 h-4 w-4" /> Back to recipes
-                </Link>
-            </Button>
-
             <div className="flex justify-between items-center mb-6">
                 <h1 className="text-3xl font-bold flex items-center">
                     <ShoppingCart className="mr-3 h-6 w-6" /> Shopping Cart
@@ -160,7 +175,14 @@ export default function ShoppingCartPage() {
 
                     <div className="bg-card rounded-lg border shadow-sm">
                         <div className="p-6">
-                            <h2 className="text-xl font-semibold mb-4">Grocery List</h2>
+                            <div className="flex justify-between items-center mb-4">
+                                <h2 className="text-xl font-semibold">Grocery List</h2>
+                                <Button variant="ghost" className="text-sm text-muted-foreground hover:text-black" onClick={handleExportPDF}>
+                                    <Download className="h-4 w-4 mr-1" />
+                                    Export PDF
+                                </Button>
+                            </div>
+
                             <ul className="space-y-3">
                                 {cartItems.map((item, index) => {
                                     const key = `${item.name.toLowerCase()}|${item.unit.toLowerCase()}`
@@ -177,8 +199,7 @@ export default function ShoppingCartPage() {
                                                 />
                                                 <label
                                                     htmlFor={`item-${index}`}
-                                                    className={`text-sm leading-6 ${item.checked ? "line-through text-muted-foreground" : ""}`}
-                                                >
+                                                    className={`grocery-item-label text-sm leading-6 ${item.checked ? "line-through text-muted-foreground" : ""}`}                                                >
                                                     {item.amount} {item.unit} {item.name}
                                                 </label>
                                             </div>

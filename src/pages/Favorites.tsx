@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react"
 import { Link } from "react-router-dom"
 import { ArrowLeft, Heart } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardFooter } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { RECIPES } from "@/lib/recipe-data"
+import { Button } from "../components/ui/button"
+import { Card, CardContent, CardFooter } from "../components/ui/card"
+import { Badge } from "../components/ui/badge"
+import { RECIPES } from "../lib/recipe-data"
 
 export default function Favorites() {
     const [favorites, setFavorites] = useState<string[]>([])

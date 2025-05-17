@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react"
 import { useParams, useNavigate, Link } from "react-router-dom"
 import { ArrowLeft, Heart, ShoppingCart, Clock, Users } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { Badge } from "@/components/ui/badge"
-import { Separator } from "@/components/ui/separator"
-import { useToast } from "@/hooks/use-toast"
-import { RECIPES } from "@/lib/recipe-data"
-import { addRecipeToCart } from "@/lib/cart-utils"
+import { Button } from "../components/ui/button"
+import { Badge } from "../components/ui/badge"
+import { Separator } from "../components/ui/separator"
+import { useToast } from "../hooks/use-toast"
+import { RECIPES } from "../lib/recipe-data"
+import { addRecipeToCart } from "../lib/cart-utils"
 
 export default function RecipeDetail() {
     const { id } = useParams()

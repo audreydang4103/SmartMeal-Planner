@@ -2,11 +2,11 @@ import React from "react";
 import "./index.css";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import AddRecipe from "@/pages/AddRecipe";
-import FavoritesPage from "@/pages/Favorites";
-import CartPage from "@/pages/Cart";
-import RecipeDetail from "@/pages/RecipeDetail";
-import Home from "@/pages/Home";
+import AddRecipe from "./pages/AddRecipe";
+import FavoritesPage from "./pages/Favorites";
+import CartPage from "./pages/Cart";
+import RecipeDetail from "./pages/RecipeDetail";
+import Home from "./pages/Home";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>

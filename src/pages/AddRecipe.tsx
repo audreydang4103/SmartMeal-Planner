@@ -1,15 +1,15 @@
 import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { ArrowLeft, Plus, Trash2, Upload } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
-import { Label } from "@/components/ui/label";
-import { Badge } from "@/components/ui/badge";
-import { Card, CardContent } from "@/components/ui/card";
-import { Separator } from "@/components/ui/separator";
-import { useToast } from "@/hooks/use-toast";
-import { AVAILABLE_TAGS } from "@/lib/recipe-data";
+import { Button } from "../components/ui/button";
+import { Input } from "../components/ui/input";
+import { Textarea } from "../components/ui/textarea";
+import { Label } from "../components/ui/label";
+import { Badge } from "../components/ui/badge";
+import { Card, CardContent } from "../components/ui/card";
+import { Separator } from "../components/ui/separator";
+import { useToast } from "../hooks/use-toast";
+import { AVAILABLE_TAGS } from "../lib/recipe-data";
 
 export default function AddRecipe() {
   const navigate = useNavigate();

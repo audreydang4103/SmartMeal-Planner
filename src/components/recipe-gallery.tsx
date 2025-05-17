@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react"
 import { useLocation, useNavigate } from "react-router-dom"
-import { Badge } from "@/components/ui/badge"
-import { Card, CardContent, CardFooter } from "@/components/ui/card"
+import { Badge } from "./ui/badge"
+import { Card, CardContent, CardFooter } from "./ui/card"
 import { Heart } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { RECIPES } from "@/lib/recipe-data"
+import { Button } from "./ui/button"
+import { RECIPES } from "../lib/recipe-data"
 import { Link } from "react-router-dom"
 
 export default function RecipeGallery() {

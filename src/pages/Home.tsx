@@ -1,9 +1,9 @@
 import React from "react"
 import { Link } from "react-router-dom"
 import { Tag, ShoppingCart, Heart, Plus } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import RecipeGallery from "@/components/recipe-gallery"
-import TagFilter from "@/components/tag-filter"
+import { Button } from "../components/ui/button"
+import RecipeGallery from "../components/recipe-gallery"
+import TagFilter from "../components/tag-filter"
 
 export default function Home() {
     return (
