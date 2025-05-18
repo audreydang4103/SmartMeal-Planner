@@ -49,7 +49,7 @@ export default function RecipeDetail() {
             <div className="container mx-auto px-4 py-8 text-center">
                 <h1 className="text-2xl font-bold mb-4">Recipe not found</h1>
                 <Button asChild>
-                    <Link to="/">
+                    <Link to="/home">
                         <ArrowLeft className="mr-2 h-4 w-4" />
                         Back to recipes
                     </Link>
@@ -61,7 +61,7 @@ export default function RecipeDetail() {
     return (
         <div className="container mx-auto px-4 py-8">
             <Button variant="ghost" asChild className="mb-4">
-                <Link to="/">
+                <Link to="/home">
                     <ArrowLeft className="mr-2 h-4 w-4" />
                     Back to recipes
                 </Link>

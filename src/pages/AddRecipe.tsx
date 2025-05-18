@@ -88,7 +88,7 @@ export default function AddRecipe() {
     <div className="min-h-screen bg-white py-10">
       <div className="max-w-screen-xl mx-auto px-4">
         <Button variant="ghost" asChild className="mb-6">
-          <Link to="/">
+          <Link to="/home">
             <ArrowLeft className="mr-2 h-4 w-4" /> Back to recipes
           </Link>
         </Button>

@@ -30,7 +30,7 @@ export default function Favorites() {
     return (
         <div className="container mx-auto px-4 py-8">
             <Button variant="ghost" asChild className="mb-4">
-                <Link to="/">
+                <Link to="/home">
                     <ArrowLeft className="mr-2 h-4 w-4" />
                     Back to recipes
                 </Link>

@@ -101,6 +101,12 @@ export default function ShoppingCartPage() {
 
     return (
         <div className="container mx-auto px-4 py-8">
+            <Button variant="ghost" asChild className="mb-2">
+                <Link to="/home">
+                    <ArrowLeft className="mr-2 h-2 w-4" />
+                    Back to recipes
+                </Link>
+            </Button>
             <div className="flex justify-between items-center mb-6">
                 <h1 className="text-3xl font-bold flex items-center">
                     <ShoppingCart className="mr-3 h-6 w-6" /> Shopping Cart
@@ -115,7 +121,7 @@ export default function ShoppingCartPage() {
                     <h2 className="text-xl font-semibold mb-2">Your cart is empty</h2>
                     <p className="text-muted-foreground mb-6">Add ingredients by choosing recipes</p>
                     <Button asChild>
-                        <Link to="/">Browse Recipes</Link>
+                        <Link to="/home">Browse Recipes</Link>
                     </Button>
                 </div>
             ) : (
