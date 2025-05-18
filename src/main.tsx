@@ -7,12 +7,14 @@ import CartPage from "./pages/Cart";
 import RecipeDetail from "./pages/RecipeDetail";
 import Home from "./pages/Home";
 import "./index.css";
+import LoginPage from "@/pages/LoginPage";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<LoginPage />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/add-recipe" element={<AddRecipe />} />
         <Route path="/favorites" element={<FavoritesPage />} />
         <Route path="/cart" element={<CartPage />} />

@@ -49,6 +49,20 @@
     "isolatedModules": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "skipLibCheck": true
-  }
+    "skipLibCheck": true,
+    "baseUrl": ".", // Quan trọng: Đặt thư mục gốc cho việc giải quyết đường dẫn
+    "paths": {
+      "@/*": [
+        "src/*"
+      ] // Định nghĩa alias @ trỏ đến thư mục src
+    }
+    // ... các tùy chọn khác của bạn
+  },
+  "include": [
+    "src",
+    "vite.config.ts"
+  ], // Đảm bảo "src" và file cấu hình vite được bao gồm
+  "exclude": [
+    "node_modules"
+  ]
 }
