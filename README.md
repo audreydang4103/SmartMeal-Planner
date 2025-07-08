@@ -33,7 +33,37 @@
 Clone and run the app locally in just a few steps:
 
 ```bash
-git clone https://github.com/yourusername/smartmeal-planner.git
-cd smartmeal-planner
+git clone https://github.com/audreydang4103/SmartMeal-Planner.git
+cd SmartMeal-Planner
 npm install
+```
+
+### Environment Setup
+
+Copy the environment template and add your Firebase configuration:
+
+```bash
+cp .env.example .env
+```
+
+Then edit `.env` and replace the placeholder values with your actual Firebase project credentials:
+
+```bash
+# Firebase Configuration
+VITE_FIREBASE_API_KEY=your_actual_api_key_here
+VITE_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=your-project-id
+VITE_FIREBASE_STORAGE_BUCKET=your-project.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
+```
+
+**Note:** To get these values, create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com) and enable Authentication.
+
+### Start Development Server
+
+```bash
 npm run dev
+```
+
