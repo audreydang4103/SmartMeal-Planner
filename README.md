@@ -1,54 +1,39 @@
-# React + TypeScript + Vite
+## SmartMeal Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SmartMeal Planner** is a full-featured web application that streamlines the entire meal planning process—from discovering new recipes to organizing a grocery list. Whether you're cooking for one or feeding a family, SmartMeal Planner helps you figure out what to buy with less effort.
 
-Currently, two official plugins are available:
+**Tech Stack:** React 19, TypeScript, Tailwind CSS, Firebase, Vite, Spoonacular API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- **Recipe Discovery**  
+  Browse 69+ curated recipes from the Spoonacular API with beautiful visuals. Filter recipes by tags such as *vegan*, *vegetarian*, *gluten-free*, or *quick & easy*. Each recipe includes cooking time, servings, ingredients, and step-by-step instructions.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+- **Favorites & Custom Recipes**  
+  Save and organize your favorite recipes with persistent localStorage. Create your own custom recipes with ingredients, steps, and dietary tags. Easily edit or delete your own recipes.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+- **Smart Shopping Cart**  
+  Add multiple recipes and automatically combine overlapping ingredients. Check off items while shopping. Adjust servings to dynamically update quantities. Export a clean, printable PDF grocery list in one click.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+- **User Authentication**  
+  Secure sign-up/sign-in with Firebase Email/Password Authentication. Personalized experience across sessions.
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+- **Modern UI/UX**  
+  Built with Tailwind CSS and shadcn/ui. Fully responsive layout supports desktop, tablet, and mobile. Supports dark/light themes. Smooth navigation and real-time visual feedback using React Router and toast notifications.
+
+---
+## Walkthrough
+
+---
+
+## Installation
+
+Clone and run the app locally in just a few steps:
+
+```bash
+git clone https://github.com/yourusername/smartmeal-planner.git
+cd smartmeal-planner
+npm install
+npm run dev

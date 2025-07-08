@@ -1,26 +1,26 @@
 // src/lib/firebase.ts
 
 // Import the functions you need from the SDKs you need
-import { initializeApp, getApp, getApps } from "firebase/app"; // Thêm getApp, getApps để tránh khởi tạo nhiều lần
+import { initializeApp, getApp, getApps } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
-import { getAuth } from "firebase/auth"; // <<<<<<< THÊM DÒNG NÀY
+import { getAuth } from "firebase/auth";
 
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyArCtsDdnOUpWCMx57voO2O2dZN3owRtqo", // Hãy cân nhắc sử dụng biến môi trường cho khóa API
-    authDomain: "smartmeal-planner-31348.firebaseapp.com",
-    projectId: "smartmeal-planner-31348",
-    storageBucket: "smartmeal-planner-31348.appspot.com", // Hoặc "smartmeal-planner-31348.firebasestorage.app" - kiểm tra lại
-    messagingSenderId: "2272414225",
-    appId: "1:2272414225:web:2bb5efeeb3bd55121e3fb0",
-    measurementId: "G-N450Z35FRL"
+    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+    authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+    projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+    storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+    appId: import.meta.env.VITE_FIREBASE_APP_ID,
+    measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID
 };
 
 // Initialize Firebase
-// Kiểm tra xem app đã được khởi tạo chưa để tránh lỗi
+// Check if app is already initialized to avoid errors
 let app;
 if (!getApps().length) {
     app = initializeApp(firebaseConfig);
@@ -29,7 +29,7 @@ if (!getApps().length) {
 }
 
 const analytics = getAnalytics(app);
-const auth = getAuth(app); // <<<<<<< KHỞI TẠO AUTHENTICATION
+const auth = getAuth(app);
 
-// Export các dịch vụ bạn muốn sử dụng trong ứng dụng
-export { app, analytics, auth }; // <<<<<<< EXPORT AUTH
+// Export services you want to use in your app
+export { app, analytics, auth };
