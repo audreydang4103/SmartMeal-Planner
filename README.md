@@ -4,7 +4,6 @@
 
 **Tech Stack:** React 19, TypeScript, Tailwind CSS, Firebase, Vite, Spoonacular API
 
----
 
 ## Features
 
@@ -23,10 +22,8 @@
 - **Modern UI/UX**  
   Built with Tailwind CSS and shadcn/ui. Fully responsive layout supports desktop, tablet, and mobile. Supports dark/light themes. Smooth navigation and real-time visual feedback using React Router and toast notifications.
 
----
 ## Walkthrough
 
----
 
 ## Installation
 
